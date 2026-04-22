@@ -1,4 +1,5 @@
-# Magneto-Coriolis Waves Solver
+# Macnus
+## Magneto-Coriolis Waves Solver
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18607675.svg)](https://doi.org/10.5281/zenodo.18607675)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
