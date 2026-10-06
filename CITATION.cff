@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release."
+title: "Macnus: Magneto-Coriolis waves solver"
+type: software
+authors:
+  - family-names: Nuyt
+    given-names: Alexandre
+  - family-names: Rekier
+    given-names: Jérémy
+version: 0.1.0
+date-released: 2026-10-06
+doi: 10.5281/zenodo.18607675
+url: "https://doi.org/10.5281/zenodo.18607675"
+repository-code: "https://github.com/Alnuyt/Magneto-Coriolis-Waves-Solver"
+keywords:
+  - magneto-Coriolis waves
+  - rotating magnetohydrodynamics
+  - spectral methods
+  - generalized eigenvalue problem

@@ -1,0 +1,15 @@
+name: mc-cylinder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - sympy=1.14
+  - numpy=2.2
+  - scipy=1.15
+  - matplotlib=3.10
+  - petsc=3.24
+  - petsc4py=3.24
+  - slepc=3.24
+  - slepc4py=3.24
+  - jupyterlab
+  - ipykernel
