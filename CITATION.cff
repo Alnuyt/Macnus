@@ -10,8 +10,8 @@ authors:
 version: 0.1.0
 date-released: 2026-10-06
 doi: 10.5281/zenodo.18607675
-url: "https://doi.org/10.5281/zenodo.18607675"
-repository-code: "https://github.com/Alnuyt/Magneto-Coriolis-Waves-Solver"
+url: "https://doi.org/10.5281/zenodo.23191256"
+repository-code: "https://github.com/Alnuyt/Macnus"
 keywords:
   - magneto-Coriolis waves
   - rotating magnetohydrodynamics
