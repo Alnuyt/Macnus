@@ -58,9 +58,6 @@ The time convention is `exp(i*m*phi - i*omega*t)`, so a damped mode satisfies
 
 ## Citation
 
-Please cite the archived release using `CITATION.cff` and its Zenodo DOI.
+Please cite the archived release using `CITATION.cff` and its Zenodo DOI : https://doi.org/10.5281/zenodo.23191256
 
-## License
-
-A software license must be selected before public deposition and added as a
-file named `LICENSE`.
+## License MIT
